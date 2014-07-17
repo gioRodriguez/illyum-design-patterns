@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .metadata
 .rar
 .classpath
@@ -6,3 +7,17 @@
 clientdb.xml
 target
 RemoteSystemsTempFiles
+=======
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> 1d6d789598304816357d933d3425c42db9f8eb27
