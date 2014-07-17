@@ -1,0 +1,8 @@
+.metadata
+.rar
+.classpath
+.project
+.settings/
+clientdb.xml
+target
+RemoteSystemsTempFiles
